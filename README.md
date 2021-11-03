@@ -1,2 +1,2 @@
-# Arable-Official.github.io
+# Arable-Official
 Arable-Official Website
